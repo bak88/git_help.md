@@ -70,3 +70,10 @@ git reset --hard HEAD~
 git clone <http\...>
 ```
 вместо http вставляется ссылка c GitHub
+
+* Отправка на удаленный репозиторий
+```sh
+git push -u origin <master> or <main>
+
+<> указывается имя ветки
+
